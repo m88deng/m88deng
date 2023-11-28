@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="center">A passionate frontend developer based in Canada</h3>
 
-##line?
 
 - 🔭 I’m currently working on [Tasteasy](https://github.com/m88deng/tasteasy)
 
