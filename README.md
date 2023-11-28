@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="![coding](file:///Users/m88/Desktop/M88/WiE/coding.gif)
-" width="100"/>
+  <img src="https://github.com/m88deng/m88deng/blob/main/coding.gif" width="100"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Melissa</h1>
