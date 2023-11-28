@@ -1,5 +1,11 @@
+<div id="header" align="center">
+  <img src="![coding](https://github.com/m88deng/m88deng/assets/112255257/e1b8416f-b2fc-4dc5-a9e6-acbae3f3f9f2)
+" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="center">A passionate frontend developer based in Canada</h3>
+
 
 - 🔭 I’m currently working on [Tasteasy](https://github.com/m88deng/tasteasy)
 
