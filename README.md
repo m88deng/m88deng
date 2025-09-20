@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="center">A passionate frontend developer based in Canada</h3>
 
-- 🔭 I’m currently working on [Tasteasy](https://github.com/m88deng/tasteasy), a mobile recipe generating application 
-
 - 👨‍💻 All of my projects are available at [https://melissadeng.com/](https://melissadeng.com/)
 
 - 📫 How to reach me **mdeng@uwaterloo.ca**
