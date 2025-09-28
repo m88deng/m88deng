@@ -96,7 +96,7 @@
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/m88deng/m88deng/output/snake.svg" alt="Snake animation" />
+![snake animation](https://m88deng.github.io/m88deng/snake.svg)
 
 ###
 
